@@ -8,7 +8,7 @@ Dans le cadre du cour « Managez et pilotez un projet multimédia », réalisa
 L’objectif est de fournir deux documents à partir de l’intitulé :
 - des SWOT sur 3 alternatives (document : activité_analyse_SWOT.odt)
 - un argumentaire sur la solution retenue à partir de l’analyse des SWOT (document : Argumentaire.odt)
-- Un fichier PDF regroupant l’analyse SWOT et l’argumentaire (documents :AP_activité3.pdf)
+- Un fichier PDF regroupant l’analyse SWOT et l’argumentaire (documents :AP_activite3.pdf)
 
 **************
 Intitulé de l’activité :
