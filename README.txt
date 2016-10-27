@@ -1,5 +1,6 @@
 Git & Git Hub - Partie 2 Activité - AP
 
+**************
 Projet :
 
 Dans le cadre du cour « Managez et pilotez un projet multimédia », réalisation de l’activité de la partie 3 sur l’analyse d’une situation de changement et de ces impacts.
@@ -7,14 +8,16 @@ Dans le cadre du cour « Managez et pilotez un projet multimédia », réalisa
 L’objectif est de fournir deux documents à partir de l’intitulé :
 - des SWOT sur 3 alternatives (document : activité_analyse_SWOT.odt)
 - un argumentaire sur la solution retenue à partir de l’analyse des SWOT (document : Argumentaire.odt)
+- Un fichier PDF regroupant l’analyse SWOT et l’argumentaire (documents :AP_activité3.pdf)
 
-—————————————
+**************
 Intitulé de l’activité :
 
 A quelques jours de leur validation, votre client vous appelle pour vous informer que le projet de fusion entre sa société et une société concurrente vient d’aboutir ! Selon la direction, les deux entités vont continuer durant environ un an leur activité sous leur nom actuel, puis une nouvelle entité sera créée, qui fusionnera les deux activités.
 
 Dans ce contexte de fusion programmée, est-il encore souhaitable de refondre ce site institutionnel ? La première réaction de votre client est de stopper net le projet. En tant que Chef de projet, vous avez peut-être une alternative à lui proposer…
 
+**************
 Les alternatives :
 
 Après rapide lecture de la situation, voici les 3 alternatives auxquelles vous êtes parvenu·e :
@@ -26,7 +29,7 @@ Alternative B : Reporter jusqu’à la date effective de la fusion des entrepris
 Alternative C : Créer ce site portail (site 3) et, en attendant la fusion effective des deux entreprises, procéder à la refonte partielle des deux sites institutionnels (sites 1 et 2) de ces deux entreprises (nouveaux look and feel similaire, ajouts de contenus textes, photos, schémas présentant le projet de fusion et ce que cette fusion va changer ou non dans le fonctionnement opérationnel des deux entreprises). 
 Il s’agit maintenant de procéder à l’analyse approfondie de chacune de ces alternatives (grâce à la technique du SWOT), et de formuler votre propre recommandation !
 
-————————————
+**************
 Consignes :
 
 1. Réalisez les SWOT des 3 alternatives
