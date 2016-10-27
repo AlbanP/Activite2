@@ -5,8 +5,8 @@ Projet :
 Dans le cadre du cour « Managez et pilotez un projet multimédia », réalisation de l’activité de la partie 3 sur l’analyse d’une situation de changement et de ces impacts.
 
 L’objectif est de fournir deux documents à partir de l’intitulé :
-- des SWOT sur 3 alternatives (document : activité_analyse_a_remplir.odt)
-- un argumentaire sur la solution retenue à partir de l’analyse des SWOT (Argumenatire.odt)
+- des SWOT sur 3 alternatives (document : activité_analyse_SWOT.odt)
+- un argumentaire sur la solution retenue à partir de l’analyse des SWOT (document : Argumentaire.odt)
 
 —————————————
 Intitulé de l’activité :
